@@ -1495,3 +1495,11 @@ yieldlab.net,15465081,RESELLER
 yieldmo.com,3761877318507634863,RESELLER,6a92c77cfc3d2258
 zetaglobal.net,856,RESELLER
 zmaticoo.com,5135535,RESELLER
+#Premium Programmatic Demand by publisher@greedygame.com
+greedygame.com,3484122799234846,direct
+google.com,pub-1067374679252537,reseller,f08c47fec0942fa0
+google.com,pub-2749054827332983,reseller,f08c47fec0942fa0
+pubmatic.com,161480,reseller,5d62403b186f2ace
+pubmatic.com,162539,reseller,5d62403b186f2ace
+google.com,pub-4686405784285870,reseller,f08c47fec0942fa0
+
