@@ -1564,3 +1564,4 @@ video.unrulymedia.com,2099898025,RESELLER
 video.unrulymedia.com,389957698,RESELLER
 video.unrulymedia.com,739131256,RESELLER
 video.unrulymedia.com,906352066,RESELLER
+google.com, pub-8638226147800489, DIRECT, f08c47fec0942fa0
