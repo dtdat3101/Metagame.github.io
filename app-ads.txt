@@ -1565,3 +1565,5 @@ video.unrulymedia.com,389957698,RESELLER
 video.unrulymedia.com,739131256,RESELLER
 video.unrulymedia.com,906352066,RESELLER
 google.com, pub-8638226147800489, DIRECT, f08c47fec0942fa0
+thunder-monetize.com, 6343837988, RESELLER
+outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
