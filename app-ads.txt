@@ -1568,3 +1568,4 @@ google.com, pub-8638226147800489, DIRECT, f08c47fec0942fa0
 thunder-monetize.com, 6343837988, RESELLER
 outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
 google.com, pub-1448671437350547, DIRECT, f08c47fec0942fa0
+google.com, pub-2127641228054246, DIRECT, f08c47fec0942fa0
