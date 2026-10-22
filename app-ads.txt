@@ -2277,6 +2277,12 @@ freewheel.tv, 548888-r-524565, RESELLER, 74e8e47458f74754
 freewheel.tv, 548888-r-523319, RESELLER, 74e8e47458f74754
 freewheel.tv, sg1332502, RESELLER, 74e8e47458f74754
 indexexchange.com, 220189, RESELLER, 50b1c356f2c5c8fc
+video.unrulymedia.com, 839999282, RESELLER, 98c21ef9a666c68b
+monetrix.ai, 10688, RESELLER
+onetag.com, 970b4089dd78c5f, RESELLER
+e-planning.net, 79ded3cfca3d3b78,RESELLER, c1ba615865ed87b2
+bold-win.com, 1189, RESELLER, 71746737d0bab951
+bluexad.ai, 1993610319863222272, RESELLER
 bigo.sg, q9hk29ki8d, RESELLER
 indexexchange.com, 216592, RESELLER, 50b1c356f2c5c8fc
 triplelift.com, 14819, RESELLER, 6c33edb13117fd86
